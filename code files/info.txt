@@ -1,4 +1,5 @@
 this in an information file
 apples: 3
 oranges: 2
+bananas: 3
 cucumbers: 2
