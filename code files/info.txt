@@ -1,5 +1,5 @@
 this in an information file
-apples: 3
+apples: 5
 oranges: 2
 cucumbers: 0
 bananas: 3
