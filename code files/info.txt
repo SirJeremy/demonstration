@@ -1,4 +1,4 @@
 this in an information file
 apples: 3
-oranges: 0
-cucumbers: 0
+oranges: 2
+cucumbers: 2
